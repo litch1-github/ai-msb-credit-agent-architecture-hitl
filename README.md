@@ -7,7 +7,9 @@
 [![Status](https://img.shields.io/badge/Status-Ready%20for%20ArchReview-green?style=flat-square)]()
 
 > **Enterprise архитектурное решение** механизма вовлечения человека в критические точки принятия решений AI-агентом при обработке кредитных заявок малого и среднего бизнеса.
-
+---
+### Ссылка на Артефакт Архитектура Решения
+https://github.com/litch1-github/ai-msb-credit-agent-architecture-hitl/blob/main/docs/Architecture_Document.md
 ---
 
 ## 🎯 Проблема и решение
