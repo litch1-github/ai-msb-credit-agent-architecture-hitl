@@ -88,6 +88,13 @@ AI-агенты в банковском контуре сталкиваются 
 8. **Нефункциональные требования** — нагрузка, хранение, compliance
 
 ---
+### Диаграммы
+Информационная диаграмма потоков
+![Информационная архитектура](./diagrams/info_architecture.png)
+
+Системная диаграмма
+![Системная архитектура](./diagrams/sys_architecture.png)
+---
 
 ## 🚀 Как использовать
 
@@ -121,16 +128,6 @@ AI-агенты в банковском контуре сталкиваются 
 📧 **Email:** [litch1@yandex.ru](mailto:litch1@yandex.ru)  
 💼 **Telegram:** [@ganja_iv](https://linkedin.com/in/your-profile)  
 🐙 **GitHub:** [github.com/litch1-github](https://github.com/litch1-github)  
-
----
-
-## 📚 Полезные ссылки
-
-- [AI-Disrupt PDLC](https://example.com/ai-disrupt-pdlc) — методология проектирования AI-систем
-- [Temporal Documentation](https://docs.temporal.io/) — workflow engine
-- [Open Policy Agent](https://www.openpolicyagent.org/) — Policy as Code
-- [Model Context Protocol](https://modelcontextprotocol.io/) — стандарт для AI-инструментов
-- [Agent-to-Agent Protocol](https://google.github.io/A2A/) — межагентное взаимодействие
 
 ---
 
