@@ -249,7 +249,7 @@ HITL встраивается в IDP Portal как часть платформы
 | **4\. Часть IDP Portal**    | **2**                      | **5**                          | **5**                   | **2**                  | **5**               | **19**    |
 
 **3.2 Информационная архитектура**
-![Информационная архитектура](.//diagrams/info_architecture.png)
+![Информационная архитектура](../diagrams/info_architecture.png)
 
 
 Таблица информационных потоков
@@ -267,7 +267,7 @@ HITL встраивается в IDP Portal как часть платформы
 | П09 | Событие аудита HITL            | Temporal Workflow Engine              | Observability                         | {workflow_id, task_id, status, duration, reviewer_id}                                               | Передает сведения о выполнении процесса HITL для журналирования, мониторинга и формирования эксплуатационных метрик.                                                 | Event    | OTLP/ gRPC over TLS        | ~2 KB                 |
 
 **3.3 Системная архитектура**
-![Системная архитектура](.//diagrams/sys_architecture.png)
+![Системная архитектура](../diagrams/sys_architecture.png)
 
 
 **3.3.1 Масштабирование**
